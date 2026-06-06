@@ -11,13 +11,13 @@ import uuid
 from telethon import TelegramClient, functions, types, errors
 
 # --- CONFIGURATION ---
-BOT_TOKEN = "8093808908:AAESyMRfyl27rgWieLzqGM8VrSZY7Eo1g6I"
+BOT_TOKEN = "8093808908:AAFowa8AyhRJvbmNLotQpeECqPZVyo-e3Ak"
 ADMIN_ID = 6908091275
 ADMIN_USERNAME = "@rikton16"
 API_ID = 27699293
 API_HASH = "2f0aa06fe4f782c5ebd5454c19774c79"
 DB_FILE = "bot_data.json"
-LOG_BOT_TOKEN = ""8093808908:AAESyMRfyl27rgWieLzqGM8VrSZY7Eo1g6I"
+LOG_BOT_TOKEN = "8093808908:AAFowa8AyhRJvbmNLotQpeECqPZVyo-e3Ak"
 LOG_GROUP_ID = -1003604406909
 
 bot = telebot.TeleBot(BOT_TOKEN)
